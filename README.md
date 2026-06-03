@@ -214,7 +214,7 @@ POST   /api/rooms
 
 ## 👨‍💻 Author
 
-**Nagesh Kumar**
+**Pratik Singh**
 
 ---
 
